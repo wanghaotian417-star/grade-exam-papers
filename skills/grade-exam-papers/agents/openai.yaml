@@ -1,0 +1,13 @@
+interface:
+  display_name: 试卷识别与批改
+  short_description: 识别图片与PDF试卷，保留完整解题步骤，逐题批改评分并生成原图标注和报告
+  default_prompt: 使用 $grade-exam-papers 识别并批改我上传的试卷，逐题检查完整过程，指出首个错误；有评分标准时按标准评分，看不清的内容标为待确认。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

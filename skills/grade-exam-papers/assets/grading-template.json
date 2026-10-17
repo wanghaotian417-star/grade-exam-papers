@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "title": "试卷批改",
+  "rubric_source": "none",
+  "notes": [],
+  "pages": [{"id": "p001", "path": "pages/p001.png"}],
+  "questions": [{
+    "id": "1", "status": "pending",
+    "prompt": "[填写实际识别的题目]",
+    "student_steps": [], "reference_answer": "",
+    "analysis": "尚未识别与批改，此对象仅为结构模板。",
+    "first_error": null, "score": null, "max_score": null,
+    "regions": []
+  }]
+}

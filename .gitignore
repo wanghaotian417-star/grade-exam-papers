@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exam working data
+/inputs/
+/work/
+/output/
+
+# Published skill downloads are intentionally tracked
+!/dist/
+!/dist/*.zip
+!/dist/*.sha256
