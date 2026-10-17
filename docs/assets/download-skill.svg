@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="56" viewBox="0 0 244 56" role="img" aria-label="下载此 Skill">
+  <title>下载此 Skill</title>
+  <rect x="1" y="1" width="242" height="54" rx="10" fill="#238636" stroke="#1a6b2a" stroke-width="2"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 16v18m-7-7 7 7 7-7"/>
+    <path d="M20 36v5h20v-5"/>
+  </g>
+  <text x="60" y="35" fill="#ffffff" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="20" font-weight="600">下载此 Skill</text>
+</svg>

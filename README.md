@@ -2,7 +2,9 @@
 
 面向具备视觉理解能力的AI助手：识别图片、手写作业和多页PDF，保留完整推导，逐题检查、定位首错、按依据评分，并生成原图标注与批改报告。
 
-**[直接下载技能包 v1.0.0](./dist/grade-exam-papers-v1.0.0.zip?raw=true)** · [使用说明](./docs/USAGE.md) · [AI技能入口](./skills/grade-exam-papers/SKILL.md)
+[![下载此 Skill](./docs/assets/download-skill.svg)](https://raw.githubusercontent.com/wanghaotian417-star/grade-exam-papers/main/dist/grade-exam-papers-v1.0.0.zip)
+
+[技能包 v1.0.0](https://raw.githubusercontent.com/wanghaotian417-star/grade-exam-papers/main/dist/grade-exam-papers-v1.0.0.zip) · [使用说明](./docs/USAGE.md) · [AI技能入口](./skills/grade-exam-papers/SKILL.md)
 
 ## 使用
 
